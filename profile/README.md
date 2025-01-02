@@ -39,7 +39,7 @@ To set up the environment, source the build script:
 For **Nothing Phone (2)** (codename **Pong**), select the appropriate build target:
 
 ```bash
-lunch lineage_Pong-ap3a-userdebug
+lunch lineage_Pong-ap4a-userdebug
 ```
 
 ### 3. Build the ROM
